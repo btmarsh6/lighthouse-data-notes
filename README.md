@@ -1,2 +1,2 @@
-# lighthouse-data-notes
+# Ben's Notes
 Repo for Data Science notes.
